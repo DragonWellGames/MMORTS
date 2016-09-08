@@ -1,1 +1,1 @@
-Hey, we're making a game
+Hey, we're making a game! Gotta design it first though.
